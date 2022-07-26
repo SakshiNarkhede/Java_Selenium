@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1" parallel="tests" thread-count="4" >
+  <test name="Windows 7 Test" annotations="JDK"
+		preserve-order="true">
+        <parameter name="browser" value="Firefox"/>
+        <parameter name="version" value="82.0"/>
+        <parameter name="platform" value="Windows 7"/>
+        <classes>
+            <class name="lambdatest.LambdaTest" />
+        </classes>
+    </test> <!-- Test -->
+    <test name="Windows 10 Test" annotations="JDK"
+		preserve-order="true">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="version" value="88.0"/>
+        <parameter name="platform" value="Windows 10"/>
+        <classes>
+            <class name="lambdatest.LambdaTest" />
+        </classes>
+    </test> <!-- Test -->
+    <test name="MacOS Test" annotations="JDK"
+		preserve-order="true">
+        <parameter name="browser" value="MicrosoftEdge"/>
+        <parameter name="version" value="87.0"/>
+        <parameter name="platform" value="macOS Sierra"/>
+        <classes>
+            <class name="lambdatest.LambdaTest" />
+        </classes>
+    </test> <!-- Test -->
+    <test name="Windows 10" annotations="JDK"
+		preserve-order="true">
+        <parameter name="browser" value="Internet Explorer"/>
+        <parameter name="version" value="11.0"/>
+        <parameter name="platform" value="Windows 10"/>
+        <classes>
+            <class name="lambdatest.LambdaTest" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
