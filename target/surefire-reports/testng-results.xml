@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-29T18:45:39Z" name="Suite" finished-at="2022-07-29T18:48:59Z" duration-ms="200043">
+  <suite started-at="2022-07-29T18:51:58Z" name="Suite" finished-at="2022-07-29T18:55:04Z" duration-ms="186305">
     <groups>
     </groups>
-    <test started-at="2022-07-29T18:45:39Z" name="MacOS Test" finished-at="2022-07-29T18:47:39Z" duration-ms="120236">
+    <test started-at="2022-07-29T18:51:58Z" name="MacOS Test" finished-at="2022-07-29T18:53:27Z" duration-ms="89334">
       <class name="lambdatest.LambdaTest">
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:45:39Z" name="setUpClass" finished-at="2022-07-29T18:46:17Z" duration-ms="38408" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:51:58Z" name="setUpClass" finished-at="2022-07-29T18:52:07Z" duration-ms="9027" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -28,15 +28,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:46:17Z" name="testScenarioOne" finished-at="2022-07-29T18:46:34Z" duration-ms="16312" status="PASS">
+        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:52:07Z" name="testScenarioOne" finished-at="2022-07-29T18:52:23Z" duration-ms="16348" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioOne -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:46:34Z" name="close" finished-at="2022-07-29T18:46:34Z" duration-ms="482" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:52:23Z" name="close" finished-at="2022-07-29T18:52:24Z" duration-ms="475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:46:34Z" name="setUpClass" finished-at="2022-07-29T18:46:48Z" duration-ms="14036" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:52:24Z" name="setUpClass" finished-at="2022-07-29T18:52:39Z" duration-ms="14935" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -57,15 +57,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:46:48Z" name="testScenarioTwo" finished-at="2022-07-29T18:47:02Z" duration-ms="14395" status="PASS">
+        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:52:39Z" name="testScenarioTwo" finished-at="2022-07-29T18:52:53Z" duration-ms="14256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioTwo -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:47:02Z" name="close" finished-at="2022-07-29T18:47:03Z" duration-ms="537" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:52:53Z" name="close" finished-at="2022-07-29T18:52:53Z" duration-ms="447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:47:03Z" name="setUpClass" finished-at="2022-07-29T18:47:19Z" duration-ms="16377" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:52:53Z" name="setUpClass" finished-at="2022-07-29T18:53:07Z" duration-ms="13731" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,19 +86,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:47:19Z" name="testScenarioThree" finished-at="2022-07-29T18:47:38Z" duration-ms="19116" status="PASS">
+        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:53:07Z" name="testScenarioThree" finished-at="2022-07-29T18:53:27Z" duration-ms="19667" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioThree -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:47:38Z" name="close" finished-at="2022-07-29T18:47:39Z" duration-ms="549" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@293a5bf6]" started-at="2022-07-29T18:53:27Z" name="close" finished-at="2022-07-29T18:53:27Z" duration-ms="424" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- lambdatest.LambdaTest -->
     </test> <!-- MacOS Test -->
-    <test started-at="2022-07-29T18:45:39Z" name="Windows 7 Test" finished-at="2022-07-29T18:48:06Z" duration-ms="146934">
+    <test started-at="2022-07-29T18:51:58Z" name="Windows 7 Test" finished-at="2022-07-29T18:54:06Z" duration-ms="128494">
       <class name="lambdatest.LambdaTest">
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:45:39Z" name="setUpClass" finished-at="2022-07-29T18:45:48Z" duration-ms="9548" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:51:58Z" name="setUpClass" finished-at="2022-07-29T18:52:10Z" duration-ms="12460" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -119,15 +119,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:45:48Z" name="testScenarioOne" finished-at="2022-07-29T18:46:04Z" duration-ms="15938" status="PASS">
+        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:52:10Z" name="testScenarioOne" finished-at="2022-07-29T18:52:26Z" duration-ms="15215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioOne -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:46:04Z" name="close" finished-at="2022-07-29T18:46:05Z" duration-ms="702" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:52:26Z" name="close" finished-at="2022-07-29T18:52:26Z" duration-ms="691" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:46:05Z" name="setUpClass" finished-at="2022-07-29T18:46:18Z" duration-ms="12748" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:52:26Z" name="setUpClass" finished-at="2022-07-29T18:52:39Z" duration-ms="13224" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -148,15 +148,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:46:18Z" name="testScenarioTwo" finished-at="2022-07-29T18:46:32Z" duration-ms="14582" status="PASS">
+        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:52:39Z" name="testScenarioTwo" finished-at="2022-07-29T18:52:53Z" duration-ms="13732" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioTwo -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:46:32Z" name="close" finished-at="2022-07-29T18:46:33Z" duration-ms="684" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:52:53Z" name="close" finished-at="2022-07-29T18:52:54Z" duration-ms="721" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:46:33Z" name="setUpClass" finished-at="2022-07-29T18:47:47Z" duration-ms="74416" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:52:54Z" name="setUpClass" finished-at="2022-07-29T18:53:48Z" duration-ms="54347" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -177,19 +177,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:47:47Z" name="testScenarioThree" finished-at="2022-07-29T18:48:05Z" duration-ms="17588" status="PASS">
+        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:53:48Z" name="testScenarioThree" finished-at="2022-07-29T18:54:06Z" duration-ms="17393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioThree -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:48:05Z" name="close" finished-at="2022-07-29T18:48:06Z" duration-ms="702" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@35cabb2a]" started-at="2022-07-29T18:54:06Z" name="close" finished-at="2022-07-29T18:54:06Z" duration-ms="686" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- lambdatest.LambdaTest -->
     </test> <!-- Windows 7 Test -->
-    <test started-at="2022-07-29T18:45:39Z" name="Windows 10 Test" finished-at="2022-07-29T18:48:41Z" duration-ms="181756">
+    <test started-at="2022-07-29T18:51:58Z" name="Windows 10 Test" finished-at="2022-07-29T18:55:01Z" duration-ms="183467">
       <class name="lambdatest.LambdaTest">
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:45:39Z" name="setUpClass" finished-at="2022-07-29T18:45:49Z" duration-ms="10313" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:51:58Z" name="setUpClass" finished-at="2022-07-29T18:53:37Z" duration-ms="99619" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -210,15 +210,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:45:49Z" name="testScenarioOne" finished-at="2022-07-29T18:46:05Z" duration-ms="16226" status="PASS">
+        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:53:37Z" name="testScenarioOne" finished-at="2022-07-29T18:53:55Z" duration-ms="17579" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioOne -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:46:05Z" name="close" finished-at="2022-07-29T18:46:06Z" duration-ms="174" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:53:55Z" name="close" finished-at="2022-07-29T18:53:55Z" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:46:06Z" name="setUpClass" finished-at="2022-07-29T18:47:17Z" duration-ms="71103" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:53:55Z" name="setUpClass" finished-at="2022-07-29T18:54:17Z" duration-ms="21797" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -239,15 +239,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:47:17Z" name="testScenarioTwo" finished-at="2022-07-29T18:47:32Z" duration-ms="14903" status="PASS">
+        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:54:17Z" name="testScenarioTwo" finished-at="2022-07-29T18:54:32Z" duration-ms="14536" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioTwo -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:47:32Z" name="close" finished-at="2022-07-29T18:47:32Z" duration-ms="182" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:54:32Z" name="close" finished-at="2022-07-29T18:54:32Z" duration-ms="179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:47:32Z" name="setUpClass" finished-at="2022-07-29T18:48:18Z" duration-ms="46216" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:54:32Z" name="setUpClass" finished-at="2022-07-29T18:54:43Z" duration-ms="10836" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -268,19 +268,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:48:18Z" name="testScenarioThree" finished-at="2022-07-29T18:48:40Z" duration-ms="22383" status="PASS">
+        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:54:43Z" name="testScenarioThree" finished-at="2022-07-29T18:55:01Z" duration-ms="18485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioThree -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:48:40Z" name="close" finished-at="2022-07-29T18:48:41Z" duration-ms="231" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@55183b20]" started-at="2022-07-29T18:55:01Z" name="close" finished-at="2022-07-29T18:55:01Z" duration-ms="202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- lambdatest.LambdaTest -->
     </test> <!-- Windows 10 Test -->
-    <test started-at="2022-07-29T18:45:39Z" name="Windows 10" finished-at="2022-07-29T18:48:59Z" duration-ms="200043">
+    <test started-at="2022-07-29T18:51:58Z" name="Windows 10" finished-at="2022-07-29T18:55:04Z" duration-ms="186305">
       <class name="lambdatest.LambdaTest">
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:45:39Z" name="setUpClass" finished-at="2022-07-29T18:46:49Z" duration-ms="69792" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:51:58Z" name="setUpClass" finished-at="2022-07-29T18:53:18Z" duration-ms="80442" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -301,15 +301,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:46:49Z" name="testScenarioOne" finished-at="2022-07-29T18:47:06Z" duration-ms="17462" status="PASS">
+        <test-method signature="testScenarioOne()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:53:18Z" name="testScenarioOne" finished-at="2022-07-29T18:53:36Z" duration-ms="17301" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioOne -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:47:06Z" name="close" finished-at="2022-07-29T18:47:06Z" duration-ms="101" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:53:36Z" name="close" finished-at="2022-07-29T18:53:36Z" duration-ms="67" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:47:06Z" name="setUpClass" finished-at="2022-07-29T18:47:57Z" duration-ms="50601" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:53:36Z" name="setUpClass" finished-at="2022-07-29T18:54:08Z" duration-ms="32613" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -330,15 +330,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:47:57Z" name="testScenarioTwo" finished-at="2022-07-29T18:48:12Z" duration-ms="15483" status="PASS">
+        <test-method signature="testScenarioTwo()[pri:1, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:54:08Z" name="testScenarioTwo" finished-at="2022-07-29T18:54:25Z" duration-ms="16825" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioTwo -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:48:12Z" name="close" finished-at="2022-07-29T18:48:12Z" duration-ms="104" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:54:25Z" name="close" finished-at="2022-07-29T18:54:25Z" duration-ms="86" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:48:12Z" name="setUpClass" finished-at="2022-07-29T18:48:32Z" duration-ms="19621" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:54:25Z" name="setUpClass" finished-at="2022-07-29T18:54:42Z" duration-ms="16903" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -359,11 +359,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:48:32Z" name="testScenarioThree" finished-at="2022-07-29T18:48:59Z" duration-ms="26776" status="PASS">
+        <test-method signature="testScenarioThree()[pri:2, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:54:42Z" name="testScenarioThree" finished-at="2022-07-29T18:55:04Z" duration-ms="21676" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenarioThree -->
-        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:48:59Z" name="close" finished-at="2022-07-29T18:48:59Z" duration-ms="77" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:lambdatest.LambdaTest@3349e9bb]" started-at="2022-07-29T18:55:04Z" name="close" finished-at="2022-07-29T18:55:04Z" duration-ms="369" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
